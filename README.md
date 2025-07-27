@@ -1,4 +1,4 @@
-# Security-Checks-Automation
+# Security-Checks & Automation
 It automates the works and increase the security.
 In Automates the things like Alexa bulbs and fans do but it doesn't work like that . In Alexa fans and bulbs people had to buy the bulb and fans of Alexa only but through our model there will be no need of buying bulb and fans of particular switches .
 We will work with the switches and will automate the switches that will be connected through our software and will work on voice commands that will have a face lock and secure code to turn it on. After turning it on we can automate the switches that can be used with our phone only there will be no need to turn on any switches by physical press.
